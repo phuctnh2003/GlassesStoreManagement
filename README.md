@@ -1,4 +1,4 @@
-# 📱 GlassesStore Management – Ứng dụng di động  
+# 📱 GlassesStore Management
 
 ## 📝 Giới thiệu  
 **GlassesStore Management** là ứng dụng Android hỗ trợ quản lý cửa hàng mắt kính trực tuyến, cung cấp các tính năng mua sắm cơ bản và quản lý tài khoản người dùng.  

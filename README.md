@@ -18,9 +18,3 @@
 - **Kiến trúc:** Model–View–Controller (MVC)  
 - **Cơ sở dữ liệu:** SQLite  
 - **UI Components:** RecyclerView, Adapter, Intent  
-
----
-
-## 🎯 Kết quả  
-- Hoàn thiện ứng dụng di động với giao diện thân thiện, nâng cao trải nghiệm mua sắm trực tuyến.  
-- Đạt điểm **9/10** trong môn **Lập trình di động**.  
